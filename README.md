@@ -17,9 +17,13 @@ Empresario millenias que inicien una Startup, y produzcan desechos plásticos y 
 
 Personas de entre 18 a 35, sin importar el género.
 
-##Diagrama de solución
+## Diagrama de solución
 
 En el siguiente enlace se podrá encontrar el diagrama deseñado en la página de Miro: https://miro.com/app/board/uXjVO0qHyDI=/?share_link_id=173608525418
+
+## Tecnologias implementas en el desarrollo
+
+En la parte de Front-end se utilizo Vue
 
 # Partes que componen el sitio
 
@@ -35,6 +39,14 @@ Aquí tendremos un mapa donde se mostrarán ciertos puntos, tales como la isla d
 
 Los usuarios llenarán un formulario con la finalidad de saber que tanto llegarian a contribuir con las islas de basura si los desechos llegarán hasta ahí, dando una aproximación.
 
-##Formulario 2
+## Formulario 2
 
 En este formulario los interesados colocarán sus datos de contacto para que nos comuniquemos con ellos y podamos darles una solución fiable y que no cause contaminación, reutilizando lo que se pueda dando como ejemplo algunos proyectos que ya existen, tales como la creación de pulseras con plásticos reciclados o incluso como lo que se nos presento por parte de los Mission Comanders donde se crean mouse de computadora a partir de productos reciclados.
+
+## Integrantes del equipo
+
+* Líder: Jesús Garrido Martínez
+* Marco Rocha
+* Erick Jamil Hernández
+* Cesar Luilly García
+* Emmanuel López 
