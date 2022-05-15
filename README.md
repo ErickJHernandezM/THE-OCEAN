@@ -7,7 +7,7 @@ Uno de los mayores problemas que encontramos en los océanos son las islas de ba
 
 ## Solución
 
-Evitar que la basura llege a los océanos, esto sera posible, creando , donde se haga conciencia del daño que causa tirar la basura en los océanos, se prodrá observar los daños que ya han causado en varios lugares del país, al igual que llene un formulario y darle una solución al desechar residuos, en lugar de que estos colaboren con el creciemiento de las islas de basura.
+Evitar que la basura llege a los océanos, esto sera posible, desarrollando una aplicación web, donde se haga conciencia del daño que causa tirar la basura en los océanos, se prodrá observar los daños que ya han causado en varios lugares del país, al igual que llene un formulario y darle una solución al desechar residuos, en lugar de que estos colaboren con el creciemiento de las islas de basura.
 
 ## Público objetivo
 
@@ -33,4 +33,8 @@ Aquí tendremos un mapa donde se mostrarán ciertos puntos, tales como la isla d
 
 ## Formulario 1
 
-Los usuarios llenaran un formulario con la finalidad de saber que tanto llegarian a contribuir con las islas de basura si los desechos llegarán.
+Los usuarios llenarán un formulario con la finalidad de saber que tanto llegarian a contribuir con las islas de basura si los desechos llegarán hasta ahí, dando una aproximación.
+
+##Formulario 2
+
+En este formulario los interesados colocarán sus datos de contacto para que nos comuniquemos con ellos y podamos darles una solución fiable y que no cause contaminación, reutilizando lo que se pueda dando como ejemplo algunos proyectos que ya existen, tales como la creación de pulseras con plásticos reciclados o incluso como lo que se nos presento por parte de los Mission Comanders donde se crean mouse de computadora a partir de productos reciclados.
