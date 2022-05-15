@@ -1,4 +1,4 @@
-# HelpOcean
+# HelpOceans
 ## Problematica 
 
 Uno de los mayores problemas que encontramos en los océanos son las islas de basura, las cuales se generan por los desechos que las empresas, embarcaciones, plataformas o turistas y personas que viven cerca de cuerpos de agua y solo tiran la basura ahí, lo que hace que sea llevada por las corrientes marinas hasta cierto punto de los océanos donde se concentra una gran cantidad de desechos creando lo que se llama "Islas de basura". Como se puede ver a continuación este es un problema de gran magnitud
